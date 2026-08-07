@@ -12,8 +12,17 @@
 
 I enjoy building projects, contributing to open source, and learning new technologies by getting my hands dirty.
 
-🌱 &nbsp;I'm currently learning **AI/ML projects, Open source, Learning more Linux, Game development whenever inspiration strikes**  
+🌱 &nbsp;I'm currently learning:
+- **AI Engineering**
+- **More Linux**
+- **Game Development** (whenever inspiration strikes)
+  
 ⚡ &nbsp;Fun fact: **I learn best by building.**
+
+### 🔭 Currently
+- 🔬 Open Source Mentee, LFX Mentorship @ Linux Foundation — contributing to Magma Core
+- 🌱 Contributor, GSSoC 2026
+- 💼 Open to internships in Software Engineering, AI/ML, Game Development and Open Source
 
 ### 🛠️ Tech Stack
 
@@ -37,14 +46,22 @@ I enjoy building projects, contributing to open source, and learning new technol
 
 <p align="left">
   <a href="mailto:sleepyme06@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/arpita-verma-2574a5371/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sleepyme06&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <!-- <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=sleepyme06&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" /> -->
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=sleepyme06&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://streak-stats.demolab.com?user=sleepyme06&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
 </p>
 
----
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sleepyme06&theme=tokyo-night&hide_border=true"/>
+<p align="center"> -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sleepyme06&label=Profile+Views&color=db61a2&style=for-the-badge" />
+</p>
+
 <p align="center"><i>⭐️ From <a href="https://github.com/sleepyme06">sleepyme06</a></i></p>
