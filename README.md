@@ -60,8 +60,8 @@ I enjoy building projects, contributing to open source, and learning new technol
 
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sleepyme06&theme=tokyo-night&hide_border=true"/>
 <p align="center"> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sleepyme06&label=Profile+Views&color=db61a2&style=for-the-badge" />
-</p>
+</p> -->
 
 <p align="center"><i>⭐️ From <a href="https://github.com/sleepyme06">sleepyme06</a></i></p>
